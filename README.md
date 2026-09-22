@@ -13,7 +13,7 @@ Senior C#/.NET architect building reusable libraries, developer tools, applied M
 [![Addressing NuGet version](https://img.shields.io/nuget/v/ISOCodex.Addressing?logo=nuget&label=Addressing)](https://www.nuget.org/packages/ISOCodex.Addressing)
 [![Countries NuGet version](https://img.shields.io/nuget/v/ISOCodex.Countries?logo=nuget&label=Countries)](https://www.nuget.org/packages/ISOCodex.Countries)
 [![Currency NuGet version](https://img.shields.io/nuget/v/ISOCodex.Currency?logo=nuget&label=Currency)](https://www.nuget.org/packages/ISOCodex.Currency)
-[![Core target: .NET Standard 2.0](https://img.shields.io/badge/core-.NET%20Standard%202.0-512BD4?logo=dotnet&logoColor=white)](https://github.com/AnthonyPWatts/ISOCodex.Addressing.Docs/blob/main/docs/compatibility.md)
+[![Core libraries: .NET Standard 2.0](https://img.shields.io/badge/.NET%20Standard-2.0-512BD4)](https://github.com/AnthonyPWatts/ISOCodex.Addressing.Docs/blob/main/docs/compatibility.md)
 
 [Addressing docs](https://github.com/AnthonyPWatts/ISOCodex.Addressing.Docs) · [Countries docs](https://github.com/AnthonyPWatts/ISOCodex.Countries.Docs) · [Currency docs](https://github.com/AnthonyPWatts/ISOCodex.Currency.Docs) · [Project notes](https://anthonypwatts.co.uk/projects/isocodex/)  
 Public docs and runnable examples; library implementation maintained privately.
